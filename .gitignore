@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.pt
+*.pth
+*.ckpt
+data/
+datasets/
+Date/
+*.mat
+*.h5
+logs/
+results/
+.ipynb_checkpoints/
